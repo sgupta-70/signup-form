@@ -133,6 +133,7 @@ a {
     font-size: 2rem;
     font-weight: bold;
     color: white;
+    border: none;
     border-radius: 5px;
 }
 
