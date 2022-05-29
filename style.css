@@ -112,11 +112,11 @@ a {
 }
 
 .form-inputs div>input:focus {
-    border: 2px solid dodgerblue;
+    outline: 2px solid dodgerblue;
 }
 
 .form-inputs div>input:invalid {
-    border: 2px solid red;
+    outline: 2px solid red;
 }
 
 .submit-btn {
